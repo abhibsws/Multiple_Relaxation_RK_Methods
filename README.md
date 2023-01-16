@@ -1,1 +1,1 @@
-# Multiple_Relaxation_RK_Methods
+# Multiple-Relaxation Runge Kutta Methods for Conservative Dynamical SystemsThis repository contains some code used in the following article:
